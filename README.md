@@ -3,14 +3,16 @@ Ich bin Amanuel und besuche momentan die IMS im 3. Jahrgang. Ich baue hier klein
 
 
 # 💻 Programmierkenntnisse:
-|Programmiersprachen|Skill-Level||Datenbanke|Skill-Level|
-|-----|-----||-----|-----|
-|[![Javascript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)|4 ⬜ ⬜ ⬜ ⬜| |[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)|4 ⬜ ⬜ ⬜ ⬜|
-|[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)|5 ⬜ ⬜ ⬜ ⬜ ⬜| |[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)|3 ⬜ ⬜ ⬜|
-|[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)|5 ⬜ ⬜ ⬜ ⬜ ⬜||[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)|3 ⬜ ⬜ ⬜|
-|[![Golang](https://skillicons.dev/icons?i=go)](https://skillicons.dev)|3 ⬜ ⬜ ⬜||[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)|2 ⬜ ⬜|
-
-
+|Programmiersprachen|Skill-Level|
+|-----|-----|
+|[![Javascript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)|4 ⬜ ⬜ ⬜ ⬜| 
+|[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)|5 ⬜ ⬜ ⬜ ⬜ ⬜| 
+|[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)|5 ⬜ ⬜ ⬜ ⬜ ⬜|
+|[![Golang](https://skillicons.dev/icons?i=go)](https://skillicons.dev)|3 ⬜ ⬜ ⬜|
+|[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)|2 ⬜ ⬜|
+|[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)|3 ⬜ ⬜ ⬜|
+|[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)|3 ⬜ ⬜ ⬜|
+|[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)|4 ⬜ ⬜ ⬜ ⬜|
 
 |Tools|Skill-Level|
 |-----|-----|
