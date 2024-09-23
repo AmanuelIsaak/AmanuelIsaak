@@ -10,6 +10,7 @@ Ich bin Amanuel und besuche momentan die IMS im 3. Jahrgang. Ich baue hier klein
 |[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)|5 ⬜ ⬜ ⬜ ⬜ ⬜|
 |[![Golang](https://skillicons.dev/icons?i=go)](https://skillicons.dev)|3 ⬜ ⬜ ⬜|
 |[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)|3 ⬜ ⬜ ⬜|
+|[![Java](https://skillicons.dev/icons?i=python)](https://skillicons.dev)|2 ⬜ ⬜|
 
 |Datenbanke|Skill-Level|
 |-----|-----|
