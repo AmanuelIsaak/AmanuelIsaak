@@ -1,6 +1,8 @@
 # 💫 Über mich:
 Ich bin Amanuel und besuche momentan die IMS im 3. Jahrgang. Ich baue hier kleine Projekte, damit ich mein Wissen erweitern kann. Wenn man die Projekte unten sieht, habe ich entweder Javascript oder Golang benutzt. Hier sind mein [Lebenslauf](Lebenslauf.pdf) und [Notenübersicht](Modulnotenübersicht.pdf) und ich hoffe auf Ihre baldige Antwort.
 
+PS: Portfolio website kommt bald!!
+
 
 # 💻 Programmierkenntnisse:
 |Programmiersprachen|Skill-Level|
