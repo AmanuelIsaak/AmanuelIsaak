@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Amanuel</h1>
 <h3>An aspiring software engineer in 3rd year IMS</h3>
 
-- 🔭 I’m currently working on [Url-shortner](https://github.com/amanafro/URL-shortner)
+- 🔭 I’m currently working on [Currency converter](https://github.com/amanafro/CurrencyConverter)
 
 - 🌱 I’m currently learning **C# and Golang**
 
