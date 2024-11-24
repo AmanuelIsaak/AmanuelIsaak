@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C# and Golang**
 
-- 👨‍💻 All of my projects are available at my [website](https://personalportfolio-dusky-seven.vercel.app/)
+- 👨‍💻 All of my projects are available at my [website](https://amanuel-isaak.vercel.app/)
 
 - 📫 How to reach me **amanuelisaak15@gmail.com**
 
