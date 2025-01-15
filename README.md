@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Amanuel</h1>
 <h3>An aspiring software engineer in 3rd year IMS</h3>
 
-- 🔭 I’m currently working on [Carshop](https://github.com/amanafro/Carshop)
+- 🔭 I’m currently working on [Carshop](https://github.com/AmanuelIsaak/Carshop)
 
 - 🌱 I’m currently learning **C# and Golang**
 
